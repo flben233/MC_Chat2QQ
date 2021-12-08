@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="MC_Chat2QQ:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/MC_Chat2QQ_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="MC_Chat2QQ.jar">
+        <element id="module-output" name="MC_Chat2QQ" />
+      </element>
+      <element id="library" level="project" name="spigot-1.17.1" />
+    </root>
+  </artifact>
+</component>
